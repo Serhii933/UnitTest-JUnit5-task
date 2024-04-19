@@ -1,0 +1,8 @@
+.idea/
+TemperatureValidatorTest.iml
+ TemperatureValidator.iml
+TemperatureOutOfRangeException.iml
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
